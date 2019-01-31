@@ -1,0 +1,5 @@
+
+.PHONY: test-programmer
+
+test-programmer:
+	tools/avrdude-test.sh
